@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = https://test2.nix-mlops.ml.ops
+    url = s3://test2/10.48.62.182
